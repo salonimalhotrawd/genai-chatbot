@@ -1,0 +1,8 @@
+{
+    "provider": "openai",
+    "models": {
+        "openai": "gpt-4o-mini",
+        "gemini": "gemini-3-flash-preview",
+        "anthropic": "claude-sonnet-4-6"
+    }
+}
